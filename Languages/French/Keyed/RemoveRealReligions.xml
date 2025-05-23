@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Traductions des structures remplacées -->
+  <Structure_OriginChristian.label>Religion de Dale</Structure_OriginChristian.label>
+  <Structure_OriginChristian.description>Variante abstraite inspirée d’un ancien vidéaste nommé Dale.</Structure_OriginChristian.description>
+
+  <Structure_OriginIslamic.label>Origine Pastafarienne</Structure_OriginIslamic.label>
+  <Structure_OriginIslamic.description>Idéologie héritée du Pastafarisme antique.</Structure_OriginIslamic.description>
+
+  <Structure_OriginHindu.label>Origine Polythéiste</Structure_OriginHindu.label>
+  <Structure_OriginHindu.description>Idéologie descendante des anciens cultes polythéistes.</Structure_OriginHindu.description>
+
+  <Structure_OriginBuddhist.label>Gamerisme Éclairé</Structure_OriginBuddhist.label>
+  <Structure_OriginBuddhist.description>Religion née de la communauté des gamers des temps anciens.</Structure_OriginBuddhist.description>
+</LanguageData>
